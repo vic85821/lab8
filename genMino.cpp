@@ -4,7 +4,7 @@
 #define MINO_S 0
 #define MINO_I 1
 #define MINO_T 2
-#define MINO_L 3
+#define MINO_J 3
 
 Mino * genMino()
 {
@@ -21,8 +21,8 @@ Mino * genMino()
 	case MINO_T:
 	ptr = new MinoT;
 	break;
-	case MINO_L:
-	ptr = new MinoL;
+	case MINO_J:
+	ptr = new MinoJ;
 	break;
 	}		
     return ptr;

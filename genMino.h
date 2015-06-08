@@ -4,7 +4,7 @@
 #include "MinoS.h"
 #include "MinoI.h"
 #include "MinoT.h"
-#include "MinoL.h"
+#include "MinoJ.h"
 
 
 Mino * genMino();
