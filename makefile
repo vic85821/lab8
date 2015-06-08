@@ -1,4 +1,4 @@
-lab7:main.o genMino.o
+lab7:main.o genMino.o MinoS.o MinoI.o MinoT.o MinoL.o Mino.o
 	g++ -o lab7 main.o genMino.o MinoS.o MinoI.o MinoT.o MinoL.o Mino.o
 genMino.o:genMino.cpp genMino.h
 	g++ -c genMino.cpp 
