@@ -1,33 +1,16 @@
-use makefile to compile
+e throw have the function of return()
+    so after throw
+    main function will return
 
-ex1:
+prob2
+    the same as prob1
+    catch block will return and over
+    and continue execute cout<<"I love C++"<<endl;
+    show it will show
 
-0000
-0000
-0010
-0111
-0000
-0000
-0011
-0110
-0010
-0010
-0010
-0010
-
-ex2:
-
-0000
-0000
-0010
-0111
-0010
-0010
-0010
-0010
-0000
-0000
-0100
-0111
-
+prob3
+    compile it with makefile
+    if new Mino fail
+    it will go to function my_handler
+    output error message and exit program
 
